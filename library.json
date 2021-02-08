@@ -1,0 +1,28 @@
+{
+  "name": "Dashdy",
+  "keywords": "dashdy, iot, dashboard, esp32, esp8266",
+  "description": "Powerful Dashboard for IoT devices. Easy coding with less 10 lines of code, support major famous IoT chip ESP32 and ESP8266.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MakerAsia/arduino-dashdy-library.git"
+  },
+  "authors": [
+    {
+      "email": "phudphut@gmail.com", 
+      "url": null, 
+      "maintainer": true, 
+      "name": "Comdet Phueadphut"
+    }
+  ], 
+  "homepage": "https://dashdy.com", 
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "espressif32", 
+    "espressif8266", 
+    "esp32",
+    "esp8266",
+    "esp8285"
+  ]
+}
